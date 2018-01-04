@@ -1,5 +1,4 @@
 @Library("shared-libraray") _
-   Pipeline {
-    projectName = "Project1"
-    serverDomain = "Project1 Server Domain"
+   hello {
+    echo "println"
 }
